@@ -1,0 +1,15 @@
+# Ignore the database file
+password_manager.db
+
+# Ignore compiled executables
+*.exe
+
+# Ignore Inno Setup script
+*.iss
+
+# Ignore image files (if logo is not essential to code sharing)
+*.png
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
