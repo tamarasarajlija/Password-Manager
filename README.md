@@ -67,6 +67,6 @@ The repository also contains:
     Inno Setup
 
 
-## ✨ Author: Anja Ćatić
+## ✨ Author: Tamara Sarajlija
 
 Feel free to open issues or send feedback and suggestions!
